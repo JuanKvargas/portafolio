@@ -1,0 +1,9 @@
+@import "color";
+body{
+    background-color: $color-fondo;
+}
+
+#hola{
+    color: $color-letra;
+    border: 3px solid black;
+}
